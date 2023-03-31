@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <geral>
-    <key1>valor1</key1>
-    <key2>valor2</key2>
+    <key id="1">valor1</key>
+    <key id="2">valor2</key>
 </geral>
