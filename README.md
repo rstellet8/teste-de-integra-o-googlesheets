@@ -1,1 +1,1 @@
-# Teste de automatização Excel/GoogleSheets
+# Teste de automação Excel/GoogleSheets
